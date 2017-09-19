@@ -7,3 +7,8 @@
 127.0.0.1 cache.amap.com
 127.0.0.1 pushimg.amap.com
 127.0.0.1 f.amap.com
+
+# other ads
+127.0.0.1 yun.tuia.cn
+127.0.0.1 f11.baidu.com
+127.0.0.1 f.fastapi.net
