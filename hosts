@@ -1,0 +1,9 @@
+127.0.0.1  localhost
+::1  localhost
+
+# amap ads
+127.0.0.1 afp.alicdn.com
+127.0.0.1 aos-cdn-image.amap.com
+127.0.0.1 cache.amap.com
+127.0.0.1 pushimg.amap.com
+127.0.0.1 f.amap.com
