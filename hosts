@@ -12,6 +12,19 @@
 127.0.0.1 sns.amap.com
 127.0.0.1 oss.amap.com
 
+# zhihu
+127.0.0.1 pic1.zhimg.com
+127.0.0.1 pic2.zhimg.com
+127.0.0.1 adash.man.aliyuncs.com
+127.0.0.1 settings.crashlytics.com
+127.0.0.1 e.cryshlytics.com
+127.0.0.1 ef-dongfeng.taxn.com
+127.0.0.1 v.admaster.com.cn
+127.0.0.1 unpkg.zhimg.com
+127.0.0.1 g.cn.miaozhen.com
+127.0.0.1 zhihu-web-analytics.zhihu.com
+127.0.0.1 crash2.zhihu.com
+
 # other ads
 127.0.0.1 yun.tuia.cn
 127.0.0.1 f11.baidu.com
@@ -19,3 +32,4 @@
 127.0.0.1 moblink.mob.com
 127.0.0.1 f.moblink.mob.com
 127.0.0.1 stats.umsns.com
+127.0.0.1 ad.12306.cn
